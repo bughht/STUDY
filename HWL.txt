@@ -838,3 +838,37 @@ put off
 put on
 put out
 put up
+qualify
+quote
+radar
+radiation
+radioactivity
+radium
+rank
+rapid
+raw
+react
+readily
+realistic
+rebel
+recall
+receipt
+recent
+reception
+recitation
+recite
+reference
+repository
+regard
+region
+regulation
+reject
+relatively
+relevant
+relief
+relieve
+religion
+religious
+reluctant
+
+
