@@ -28,7 +28,7 @@ class Client(Cmd):
     def do_select(self, input):
         self.select(input)
 
-    def do_list(self, fuck):
+    def do_list(self, heads):
         self.printtrans(self.data_raw)
 
     def do_train(self, input):
@@ -52,7 +52,7 @@ class Client(Cmd):
         xml = request.read()
         p = r'[[](.*?)[]]'
         pattern = re.compile(p)
-        # ans = re.search(pattern, xml)
+        ans = re.search(pattern, xml)
         output = re.findall(pattern, xml)[1]
         return output[6:]
 
@@ -79,7 +79,7 @@ class Client(Cmd):
 
     def printtrans(self, IN_list):
         for ele in IN_list:
-            print ele + ' ' + self.trans(ele)
+            sys.stdout.write(ele + ' ' + self.trans(ele)+'\n')
 
     def fnn(self, input):
         def fn(x):
@@ -95,8 +95,8 @@ class Client(Cmd):
     def train(self, times):
         for i in range(1, times):
             out = self.data_sel[random.randint(0, len(self.data_sel) - 1)]
-            raw_input(self.trans(out))
-            raw_input(out)
+            sys.stdin.write(self.trans(out)+"\n")
+            sys.stdin.write(out+"\n")
 
 
 if __name__ == "__main__":
