@@ -74,6 +74,8 @@ class Client(Cmd):
 
     def select(self, heads):
         for ele in self.data_raw:
+            if ele == '':
+                continue
             if ele[0] in heads + self.fnn(heads):
                 self.data_sel.append(ele)
 
