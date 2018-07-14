@@ -78,8 +78,8 @@ def train(times):
 
 
 if __name__=="__main__":
-    load_raw("jb4.txt")
+    load_raw("HWL.txt")
     #printtrans(data_raw)
-    select('ac')
+    select('s')
     printtrans(data_sel)
     train(10)
