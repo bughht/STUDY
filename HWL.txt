@@ -1,5 +1,4 @@
-aboard
-abroad
+aboard abroad
 accommodate
 accommodation
 accustom
