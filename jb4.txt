@@ -93,10 +93,4 @@ accelerate
 apart from
 in spite of
 process
-with the development of
-nevertheless
-first and foremost
-furthermore
-last but not least
-to put in a nutshell
-if time permits
+

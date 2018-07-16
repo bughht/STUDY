@@ -78,8 +78,9 @@ def train(times):
 
 
 if __name__=="__main__":
-    load_raw("HWL.txt")
-    #printtrans(data_raw)
-    select('s')
-    printtrans(data_sel)
-    train(10)
+    filename=raw_input("import your file name:")
+    load_raw(filename+".txt")
+    printtrans(data_raw)
+    #select('s')
+    #printtrans(data_sel)
+    #train(10)
