@@ -969,3 +969,210 @@ shrink
 shuttle
 sidewalk
 sigh
+signature
+significance
+silk
+silver
+simplify
+sincere
+sink
+slang
+slavery
+slice
+slide
+slight
+slim
+slip
+slippery
+slope
+smash
+sneeze
+sociable
+somehow
+somewhere
+sorrow
+sort
+sow
+soybean
+spade
+specialized
+species
+specific
+speed up
+spell
+spill
+spin
+spirit
+spit
+spite
+in spite of
+splendid
+split
+sponsor
+spot
+spouse
+spy
+squeeze
+stadium
+stadia
+starvation
+state
+statement
+stationery
+statue
+status
+steady
+steel
+steer
+stimulate
+stir
+stock
+storekeeper
+storey
+storyteller
+stove
+strand
+strategy
+stretch
+strip
+strive
+subconscious
+subscribe
+substance
+substitute
+suburb
+suck
+sufficient
+summarize
+summary
+sunbathe
+supervise
+suppose
+surgeon
+surgery
+surname
+survey
+suspend
+sustainable
+sweat
+switch
+symbolize
+sympathy
+symphony
+symptom
+synthetic
+tablet
+tag
+take in
+take off
+take on
+take over
+take up
+tale
+tame
+tap
+tax
+technical
+technician
+technique
+technology
+telegram
+telegraph
+temporary
+tempt
+tend
+tendency
+tender
+tense
+terminal
+terrific
+territory
+terror
+theme
+therefore
+thoughtful
+thread
+throughout
+thunderstorm
+tide
+ahead of time
+all the time
+at one time
+at the same time
+by the time
+every time
+from time to time
+have a good time
+high time
+in no time
+in time
+once upon a time
+on time
+timetable
+timid
+tin
+tip
+tiptoe
+tissue
+toast
+tolerate
+tomb
+tongue
+torch
+tornado
+towel
+trace
+trademark
+trader
+tragedy
+transplant
+trap
+treasure
+tremble
+tremendous
+trolley
+trolleybus
+troop
+try out
+tuition
+tune
+turn down
+turn in
+turn into
+turn off
+turn on
+turn out
+turn over
+turn to
+turn up
+tutor
+twist
+typewriter
+typist
+tyre
+unconscious
+undergo
+underline
+undertake
+undo
+unique
+unit
+unite
+universal
+universe
+up and down
+upon
+upper
+upright
+up-to-date
+urban
+urge
+urgent
+usage
+vacancy
+vacant
+vague
+valid
+valley
+vapour
+

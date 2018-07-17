@@ -81,7 +81,7 @@ def
 if __name__=="__main__":
     filename=raw_input("import your file name:")
     load_raw(filename+".txt")
-    printtrans(data_raw)
-    #select('s')
-    #printtrans(data_sel)
-    #train(10)
+    #printtrans(data_raw)
+    select('tuv')
+    printtrans(data_sel)
+    #train(50)
