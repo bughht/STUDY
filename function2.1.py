@@ -4,7 +4,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-import pyttsx
+import pyttsx3
 import re
 import urllib2
 import random
@@ -28,7 +28,7 @@ def trans(input):
 
 
 def speak(input):
-    speak_engine = pyttsx.init()
+    speak_engine = pyttsx3.init()
     rate = speak_engine.getProperty('rate')
     speak_engine.setProperty('rate', rate - 50)
     speak_engine.say(input)
@@ -41,7 +41,6 @@ def load_raw(input):
         for line in _DATA:
             if line != "":
                 data_raw.append(" ".join(line.split()))
-    data_raw.sort()
     _DATA.close()
 
 
@@ -53,11 +52,17 @@ def select(heads):
             data_sel.append(ele)
 
 
-def printtrans(IN_list):
-    for ele in IN_list:
-        print ele + ' ' + trans(ele)
+def printtrans(IN_list,method):
+    if method=="a":
+        for ele in IN_list:
+            print ele + ' ' + trans(ele)
+    if method=="b":
+        IN_list.sort()
+        for ele in IN_list:
+            print ele + ' ' + trans(ele)
 
-
+ 
+    
 def fnn(input):
     def fn(x):
         if x.islower():
@@ -76,11 +81,12 @@ def train(times):
         raw_input(trans(out))
         raw_input(out)
 
-
 if __name__=="__main__":
     filename=raw_input("import your file name:")
+    method=raw_input("how to translate")
     load_raw(filename+".txt")
-    #printtrans(data_raw)
-    select('tuv')
-    printtrans(data_sel)
+    #printtrans(data_raw,method)
+    #select('v')
+    #printtrans(data_sel)
     #train(50)
+    speak("hello")
