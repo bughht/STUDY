@@ -76,6 +76,7 @@ def train(times):
         raw_input(trans(out))
         raw_input(out)
 
+def 
 
 if __name__=="__main__":
     filename=raw_input("import your file name:")
