@@ -76,12 +76,17 @@ def train(times):
         raw_input(trans(out))
         raw_input(out)
 
-def 
+def transfile():
+    ans=open("word+trans.txt","w+")
+    for ele in data_sel:
+        ans.write(ele+" "+trans(ele)+"\n")
+    ans.close()
 
 if __name__=="__main__":
     filename=raw_input("import your file name:")
     load_raw(filename+".txt")
     #printtrans(data_raw)
-    select('tuv')
+    select('tu')
     printtrans(data_sel)
+    #transfile()
     #train(50)
