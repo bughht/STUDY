@@ -80,6 +80,8 @@ def train(times):
         out = data_sel[random.randint(0, len(data_sel) - 1)]
         raw_input(trans(out))
         raw_input(out)
+def countsel():
+    return len(data_sel)
 
 <<<<<<< HEAD
 def transfile():
