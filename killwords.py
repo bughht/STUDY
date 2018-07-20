@@ -6,13 +6,11 @@ sys.setdefaultencoding('utf-8')
 
 from func_2 import *
 
+kill_count={}
+
 def cutfile(input,filename):
     with open(filename,'r') as r:
         lines=r.readlines()
-    with open(filename,'w') as w:
-        for l in lines:
-            if input == l:
-                w.write(l)
 
 def cuttrain(train_time):
     for time in range(1,train_time):
@@ -20,9 +18,17 @@ def cuttrain(train_time):
         raw_input(trans(out))
         result=raw_input(out+"\n"+"[y/n]:")
         if result=="y":
-            cutfile(out,cut_file)
+            data_sel.remove(out)
         else:
-            continue
+            if kill_count.has_key(out)==True:
+                kill_count[out]=kill_count[out]+1
+            else:
+                kill_count[out]=1
+                continue
+
+def KILL_RESULT():
+    for d,x in kill_count.items():
+        print d+" "+str(x)
 
 if __name__ == "__main__":
     cut_file=raw_input("Input Cut file:")
@@ -33,3 +39,5 @@ if __name__ == "__main__":
     train_time=0
     train_time=int(raw_input("Times?:"))
     cuttrain(train_time)
+    print ""
+    KILL_RESULT()
