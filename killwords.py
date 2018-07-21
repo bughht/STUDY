@@ -5,12 +5,22 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 from func_2 import *
+import os
 
 kill_count={}
+finished=[]
 
 def cutfile(input,filename):
-    with open(filename,'r') as r:
-        lines=r.readlines()
+    RAW=open(filename,"r")
+    NEW=open("new","w")
+    for line in RAW:
+        if line in finished:
+            continue
+        NEW.write(line)
+    RAW.close()
+    NEW.close()
+    os.remove(filename)
+    os.rename("new",filename)
 
 def cuttrain(train_time):
     for time in range(1,train_time):
@@ -19,6 +29,7 @@ def cuttrain(train_time):
         result=raw_input(out+"\n"+"[y/n]:")
         if result=="y":
             data_sel.remove(out)
+            finsihed.append(out)
         else:
             if kill_count.has_key(out)==True:
                 kill_count[out]=kill_count[out]+1
