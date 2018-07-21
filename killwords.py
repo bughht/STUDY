@@ -5,21 +5,50 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 from func_2 import *
+import os
+
+kill_count={}
+finished=[]
 
 def cutfile(input,filename):
-    with open(filename,'r') as r:
-        lines=r.readlines()
-    with open(filename,'w') as w:
-        for l == lines:
-            if input not in l:
-                w.write(l)
+    RAW=open(filename,"r")
+    NEW=open("new","w")
+    for line in RAW:
+        if line in finished:
+            continue
+        NEW.write(line)
+    RAW.close()
+    NEW.close()
+    os.remove(filename)
+    os.rename("new",filename)
 
-if __name__=="__main__":
+def cuttrain(train_time):
+    for time in range(1,train_time):
+        out = data_sel[random.randint(0, len(data_sel) - 1)]
+        raw_input(trans(out))
+        result=raw_input(out+"\n"+"[y/n]:")
+        if result=="y":
+            data_sel.remove(out)
+            finsihed.append(out)
+        else:
+            if kill_count.has_key(out)==True:
+                kill_count[out]=kill_count[out]+1
+            else:
+                kill_count[out]=1
+                continue
+
+def KILL_RESULT():
+    for d,x in kill_count.items():
+        print d+" "+str(x)
+
+if __name__ == "__main__":
     cut_file=raw_input("Input Cut file:")
-    load_file(cut_file)
+    load_raw(cut_file)
     letter_sel=raw_input("Head:")
     select(letter_sel)
     print "there are "+str(countsel())+" letters to kill"
     train_time=0
     train_time=int(raw_input("Times?:"))
-    train(train_time)
+    cuttrain(train_time)
+    print ""
+    KILL_RESULT()

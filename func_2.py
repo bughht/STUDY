@@ -61,8 +61,8 @@ def printtrans(IN_list,method):
         for ele in IN_list:
             print ele + ' ' + trans(ele)
 
- 
-    
+
+
 def fnn(input):
     def fn(x):
         if x.islower():
@@ -80,6 +80,7 @@ def train(times):
         out = data_sel[random.randint(0, len(data_sel) - 1)]
         raw_input(trans(out))
         raw_input(out)
+
 def countsel():
     return len(data_sel)
 
