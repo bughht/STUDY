@@ -30,6 +30,11 @@ class EXCIT(object):
         print "["+str(place+1)+"] "+self.trans
         for i in range(0,self.count):
             print(str(i+1)+" "+self.words[i])
+
+    def change(self,col,word):
+        self.words[col]=word
+        self.trans=trans(self.words[0])
+
     def __init__(self):
         self.trans=""
         self.words=[]
@@ -61,13 +66,19 @@ def loadEXCIT(filename):
         listall.append(classes)
 
 def debugEXCIT():
-    ans=raw_input("Anything Wrong? ")
-
+    check=int(raw_input("Times"))
+    for i in range(check):
+        row=int(raw_input("Which Line? "))
+        col=int(raw_input("Which One? "))
+        word=raw_input("Change TO? ")
+        listall[row-1].change(col-1,word)
 
 if __name__=="__main__":
     if os.path.exists("HML.txt")==True:
         loadEXCIT("HML.txt")
     outEXCIT()
     inEXCIT()
+    outEXCIT()
+    debugEXCIT()
     outEXCIT()
     saveEXCIT()

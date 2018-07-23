@@ -38,7 +38,7 @@ def cuttrain(train_time):
 
 def KILL_RESULT():
     for d,x in kill_count.items():
-        print d+" "+str(x)
+        print d+" "+trans(d)+" "+str(x)
 
 if __name__ == "__main__":
     cut_file=raw_input("Input Cut file:")

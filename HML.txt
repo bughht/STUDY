@@ -523,11 +523,11 @@ Rp219
 g7
 I3
 sg8
-S'batte'
+S'\xe6\x88\x98\xe6\x96\x97'
 p221
 sg10
 (lp222
-S'batte'
+S'battle'
 p223
 aS'campaign'
 p224
@@ -669,11 +669,11 @@ Rp280
 g7
 I2
 sg8
-S'ccapital'
+S'\xe8\xb5\x84\xe6\x9c\xac'
 p282
 sg10
 (lp283
-S'ccapital'
+S'capital'
 p284
 aS'capitalist'
 p285
