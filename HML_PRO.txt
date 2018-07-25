@@ -1,0 +1,552 @@
+[1] 承认
+  > admit
+  > acknowledge
+  > confess
+  > recognize
+[2] 额外的
+  > additional
+  > extra
+[3] 足够的
+  > enough
+  > sufficient
+  > adequate
+[4] approprate
+  > approprate
+  > proper
+  > adequate
+[5] 疼痛
+  > pain
+  > ache
+[6] 收购
+  > acquire
+  > gain
+  > obtain
+[7] 改变
+  > change
+  > alter
+  > shift
+  > transform
+[8] 在国外
+  > abroad
+  > overseas
+[9] 放弃
+  > abandon
+  > desert
+[10] 能力
+  > ability
+  > capability
+[11] 协助
+  > assit
+  > help
+  > aid
+[12] 链接
+  > link
+  > associate
+  > connection
+  > relation
+[13] 分析
+  > analyze
+  > analysis
+[14] 附加
+  > attach
+  > attachment
+[15] 假设
+  > assume
+  > assumption
+[16] 组装
+  > assemble
+  > assembly
+[17] 分配
+  > assign
+  > assignment
+[18] 任命
+  > appoint
+  > appointment
+[19] obcious
+  > obcious
+  > evident
+  > apparent
+[20] 鼓掌
+  > applaud
+  > applause
+[21] 承担
+  > undertake
+  > bear
+  > assume
+[22] 行李
+  > luggage
+  > baggage
+[23] 忍受
+  > endure
+  > stand
+  > bear
+  > tolerate
+[24] 的行为
+  > behave
+  > behavior
+[25] 细菌
+  > bacteria
+  > bacterium
+[26] 障碍
+  > barrier
+  > obstacle
+[27] 基本
+  > basic
+  > primary
+  > elementary
+[28] 基础
+  > basis
+  > foundation
+[29] 战斗
+  > battle
+  > campaign
+  > fight
+[30] 麻烦
+  > bother
+  > interrupt
+  > trouble
+  > disturb
+[31] 书
+  > book
+  > order
+  > reserve
+[32] 取消
+  > cancel
+  > cancelation
+[33] 停止
+  > stop
+  > cease
+[34] 庆祝
+  > celebrate
+  > observe
+[35] 影响
+  > affect
+  > influence
+  > impact
+[36] 等待
+  > wait
+  > await
+[37] 资本
+  > capital
+  > capitalist
+[38] 呼吸
+  > breathe
+  > breath
+[39] 浴
+  > bath
+  > bathe
+[40] 到达
+  > arrive
+  > arrival
+[41] 认为
+  > argue
+  > argument
+[42] 批准
+  > approve
+  > approval
+[43] 欣赏
+  > appreciate
+  > appreciation
+[44] 应用
+  > apply
+  > application
+[45] anywhat
+  > anywhat
+  > anyway
+[46] 公寓
+  > apartment
+  > flat
+[47] 道歉
+  > apologize
+  > apology
+[48] 骚扰
+  > annoy
+  > annoyance
+[49] 焦虑
+  > anxious
+  > anxiety
+[50] 愤怒
+  > anger
+  > angry
+[51] 雄心壮志
+  > ambition
+  > ambitious
+[52] 影响
+  > affect
+  > affection
+[53] 欣赏
+  > admire
+  > admiration
+[54] 承认
+  > admit
+  > admission
+[55] 精度
+  > accuracy
+  > accurate
+[56] 适应
+  > accommodate
+  > accommodation
+[57] 缺席
+  > absent
+  > absence
+[58] 访问
+  > access
+  > accessible
+[59] 事故
+  > accident
+  > accidentally
+[60] 除了
+  > addition
+  > additive
+[61] 体系结构
+  > architecture
+  > architect
+[62] 有能力做什么
+  > have the ability to do
+  > be able to do
+  > be capable to do
+  > have the capability of doing/to do
+[63] 考虑
+  > take sth into consideration
+  > think about
+  > take sth into account
+[64] 不小心
+  > accidently
+  > by chance
+[65] 根据
+  > according to
+  > based on
+[66] 某人对某事可用
+  > sb be available to sth
+  > sth be accessible to sb
+  > sb take/have access to sth
+[67] 专注于
+  > focus on
+  > concenterate on
+  > pay attention to
+  > be buried in
+  > be lost in
+  > be absorbed in
+[68] 指责某人
+  > accuse sb of
+  > charge sb with
+  > sue sb for
+[69] 定下的目标
+  > realize one's ambition
+  > achieve one's goal
+  > accomplish/fulfill one's goal
+[70] 习惯于做某事
+  > be used to doing
+  > be accustomed to doing
+  > get used to doing
+  > have/in the habit of doing
+[71] 认为做某事
+  > be regard as doing
+  > be thought of as
+  > be considered as/to be
+  > be looked upon/on as
+  > be accepted as
+  > be acknowledged as
+  > be labled/referred to as
+[72] 这是众所周知的
+  > it's known to all that
+  > it's widely known that
+  > it's universally/commonly/generally acknowledged/believed/accepted that
+[73] 作为
+  > act as
+  > serve as
+[74] 采取行动去做
+  > take action to do
+  > take measures to do
+  > take steps to do
+[75] 一个适应B
+  > adapt A to B
+  > adjust A to B
+  > tailor A to B
+  > suit A to B
+[76] 加起来是
+  > add up to
+  > come to
+  > amount to
+[77] 除了
+  > in addition to
+  > other than
+  > apart from/what's more
+[78] 赞成
+  > in favor of
+  > be for
+  > on one's side
+  > stand up for
+[79] 是对
+  > be against to
+  > be opposit to
+  > be disagree with
+[80] 提前
+  > ahead of time
+  > in advance
+  > ahead of schedule
+[81] 瞄准
+  > aim at
+  > be intended to do
+  > be meant to do
+  > aim to do
+  > be designed to do
+[82] 想要做某事
+  > intend to do
+  > plan to do
+  > want to do
+  > mean to do
+  > aim to do
+[83] 感到惊讶
+  > be surprised at
+  > be astonished at
+  > be amazed at
+  > marvel at
+  > wonder at
+[84] 别无选择,只能做什么
+  > have no choice but to do
+  > have no alternative but to do
+  > can't choose but do
+  > can do nothing but do
+  > cannot help but do
+  > be anxious for
+[85] 对很生气
+  > be annoyed about
+  > be upset about
+[86] 口渴的
+  > be thirsty for
+  > be eager for
+  > long for
+  > be starve for
+  > be desperate for
+[87] 为某事向某人道歉
+  > apologize to sb for sth
+  > express apology
+  > say sorry to sb
+[88] 吸引某人做某事
+  > appeal to sb to do
+  > call on sb to do
+[89] 看来,
+  > it appears that
+  > it appears as if
+  > it seems that
+  > it seems as if
+[90] 欣赏某人做
+  > appreciate sb for doing
+  > be grateful to sb for sth
+  > be thankful to sb for sth
+  > be obliged to sb for sth
+  > thank sb for sth
+  > show gratitude for sb
+[91] 做/做的一种方式
+  > a way to do/of doing
+  > a method to do/of doing
+  > a mean of doing
+  > an approach to doing
+[92] 除了宠物某事
+  > pet sth aside
+  > put sth aside
+  > put sth away
+[93] A与B
+  > A related to B
+  > A linked to B
+  > A connected to B
+  > A associated with B
+[94] ensure sb sth
+  > ensure sb sth
+  > assure sb of sth
+[95] 在这方面
+  > in this aspect
+  > in this respect
+  > in this way
+  > from this perspective
+[96] 很明显,
+  > it's clear that
+  > it's obvious that
+  > it's apparent that
+  > it's evident that
+[97] 去上学
+  > go to school
+  > attend school
+[98] 参加会议
+  > attend the meeting
+  > be present at the meeting
+  > join in the meeting
+  > turn up at the meeting
+[99] 欢迎某人
+  > greet sb
+  > inquire after sb
+[100] 把重点放在
+  > lay emphasis on
+  > put stress on
+  > attach importance to
+[101] 吸引某人的注意
+  > attract one's attention
+  > catch one's eye
+  > absorb one's attention
+  > catch one's attention
+  > capture one's attention
+[102] 奖励某人某物
+  > award sb sth
+  > award sth to sb
+  > award sb price
+  > award price for sb/present sb with a price
+[103] 有能力做什么
+  > have the power to do
+  > have the authority/right to do
+  > be entitled to do
+[104] 注意
+  > be aware of
+  > be conscious of/that
+[105] 系一个B
+  > tie A to B
+  > fasten A to B
+  > attach A to B
+[106] 禁止某人做
+  > ban sb from doing
+  > forbid sb to do
+  > prohibit sb from doing
+[107] 一旦
+  > as soon as
+  > hardly when
+  > no sooner than
+  > the moment
+[108] 伤害
+  > do harm to
+  > be harmful to
+  > do bad for
+[109] 很适合
+  > be good for
+  > be beneficial to
+  > do good to
+[110] 由于
+  > due to
+  > because of
+  > owning to
+  > as the result of
+  > on account of
+[111] 超出某人的能力
+  > beyond one's ability
+  > beyond one's power
+  > beyond one's range
+[112] 阻碍
+  > hold back
+  > take back
+[113] 回顾
+  > look back on
+  > look back to
+[114] 导致
+  > lead to
+  > give rise to
+  > result in
+  > bring about
+  > contribute to
+  > give birth to
+[115] 一点也不
+  > not at all
+  > not a bit
+  > anything but
+[116] 最好做某事
+  > had better do
+  > may as well do
+[117] 是罪魁祸首
+  > be to blame for
+  > be responsible for
+[118] 厌倦了
+  > be tired of
+  > be bored with
+  > be sick of
+  > be worn out
+[119] 在短暂的
+  > in brief
+  > in short
+[120] 遇到
+  > come across
+  > bump into
+  > meet with
+  > run into
+[121] 看一下
+  > look over
+  > go through
+  > browse over
+[122] 结束
+  > put an end to
+  > bring sth an end
+[123] 突然哭起来
+  > burst out crying
+  > burst into tears
+[124] 突然大笑起来
+  > burst out laughing
+  > burst into laughter
+[125] 突然鼓掌
+  > burst out applauding
+  > burst into applause
+[126] 忙着做某事
+  > be busy doing
+  > be occupied in
+  > be engaged in
+  > be busy with
+[127] 如果没有
+  > if it were not for
+  > but for
+[128] 以这种方式
+  > in this way
+  > with this method
+  > by this mean
+[129] 一个接一个
+  > one by one
+  > one after another
+[130] 复习
+  > go over
+  > refresh
+[131] 撞门
+  > bump against the door
+  > knock against the door
+[132] 依靠某人做某事
+  > rely on sb to do sth
+  > depend on sb to do sth
+  > count on sb to do sth
+  > be dependent on one's doing
+  > calculate on
+[133] 不能……已经太迟了
+  > can't ... be too late
+  > can't ... be enough
+[134] 没有意思
+  > by no mean
+  > in no way
+  > in no mean
+  > on no account
+  > in no way/under no circumstance
+[135] 以防
+  > in case
+  > for fear of
+  > for fear that
+[136] 陷入交通堵塞
+  > be caught in traffic jam
+  > stuck in traffic jam
+  > be held up in traffic jam
+[137] 这是可能
+  > it's possibly that
+  > it's likely that
+  > there's a possibility that
+  > there are chances that
+  > chances are that
+[138] 可以肯定的是
+  > for sure
+  > for certain
+[139] 确保某人做某事
+  > ensure that sb do
+  > make sure that sb do
+  > make certain that sb do
+  > se to it that sb do
+[140] 一定的
+  > be certain of
+  > be sure of
+[141] 参观
+  > pay a visit to
+  > call on
+  > be on a visit
+[142] 领导某人做某事
+  > lead sb to do
+  > cause sb to do
+  > lead to sb doing

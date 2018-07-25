@@ -55,11 +55,11 @@ def select(heads):
 def printtrans(IN_list,method):
     if method=="a":
         for ele in IN_list:
-            print ele + ' ' + trans(ele)
+            print ele + '\t' + trans(ele)
     if method=="b":
         IN_list.sort()
         for ele in IN_list:
-            print ele + ' ' + trans(ele)
+            print ele + '\t' + trans(ele)
 
 
 

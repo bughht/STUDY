@@ -50,5 +50,5 @@ if __name__ == "__main__":
     train_time=int(raw_input("Times?:"))
     cuttrain(train_time)
     print ""
-    cutfile(cut_file)
+    #cutfile(cut_file)
     KILL_RESULT()

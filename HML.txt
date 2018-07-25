@@ -1485,4 +1485,1193 @@ aS'aim to do'
 p622
 aS'be designed to do'
 p623
+asbag1
+(g2
+g3
+Ntp624
+Rp625
+(dp626
+g7
+I5
+sg8
+S'\xe6\x83\xb3\xe8\xa6\x81\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p627
+sg10
+(lp628
+S'intend to do'
+p629
+aS'plan to do'
+p630
+aS'want to do'
+p631
+aS'mean to do'
+p632
+aS'aim to do'
+p633
+asbag1
+(g2
+g3
+Ntp634
+Rp635
+(dp636
+g7
+I5
+sg8
+S'\xe6\x84\x9f\xe5\x88\xb0\xe6\x83\x8a\xe8\xae\xb6'
+p637
+sg10
+(lp638
+S'be surprised at'
+p639
+aS'be astonished at'
+p640
+aS'be amazed at'
+p641
+aS'marvel at'
+p642
+aS'wonder at'
+p643
+asbag1
+(g2
+g3
+Ntp644
+Rp645
+(dp646
+g7
+I6
+sg8
+S'\xe5\x88\xab\xe6\x97\xa0\xe9\x80\x89\xe6\x8b\xa9,\xe5\x8f\xaa\xe8\x83\xbd\xe5\x81\x9a\xe4\xbb\x80\xe4\xb9\x88'
+p647
+sg10
+(lp648
+S'have no choice but to do'
+p649
+aS'have no alternative but to do'
+p650
+aS"can't choose but do"
+p651
+aS'can do nothing but do'
+p652
+aS'cannot help but do'
+p653
+aS'be anxious for'
+p654
+asbag1
+(g2
+g3
+Ntp655
+Rp656
+(dp657
+g7
+I2
+sg8
+S'\xe5\xaf\xb9\xe5\xbe\x88\xe7\x94\x9f\xe6\xb0\x94'
+p658
+sg10
+(lp659
+S'be annoyed about'
+p660
+aS'be upset about'
+p661
+asbag1
+(g2
+g3
+Ntp662
+Rp663
+(dp664
+g7
+I5
+sg8
+S'\xe5\x8f\xa3\xe6\xb8\xb4\xe7\x9a\x84'
+p665
+sg10
+(lp666
+S'be thirsty for'
+p667
+aS'be eager for'
+p668
+aS'long for'
+p669
+aS'be starve for'
+p670
+aS'be desperate for'
+p671
+asbag1
+(g2
+g3
+Ntp672
+Rp673
+(dp674
+g7
+I3
+sg8
+S'\xe4\xb8\xba\xe6\x9f\x90\xe4\xba\x8b\xe5\x90\x91\xe6\x9f\x90\xe4\xba\xba\xe9\x81\x93\xe6\xad\x89'
+p675
+sg10
+(lp676
+S'apologize to sb for sth'
+p677
+aS'express apology'
+p678
+aS'say sorry to sb'
+p679
+asbag1
+(g2
+g3
+Ntp680
+Rp681
+(dp682
+g7
+I2
+sg8
+S'\xe5\x90\xb8\xe5\xbc\x95\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p683
+sg10
+(lp684
+S'appeal to sb to do'
+p685
+aS'call on sb to do'
+p686
+asbag1
+(g2
+g3
+Ntp687
+Rp688
+(dp689
+g7
+I4
+sg8
+S'\xe7\x9c\x8b\xe6\x9d\xa5,'
+p690
+sg10
+(lp691
+S'it appears that'
+p692
+aS'it appears as if'
+p693
+aS'it seems that'
+p694
+aS'it seems as if'
+p695
+asbag1
+(g2
+g3
+Ntp696
+Rp697
+(dp698
+g7
+I6
+sg8
+S'\xe6\xac\xa3\xe8\xb5\x8f\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a'
+p699
+sg10
+(lp700
+S'appreciate sb for doing'
+p701
+aS'be grateful to sb for sth'
+p702
+aS'be thankful to sb for sth'
+p703
+aS'be obliged to sb for sth'
+p704
+aS'thank sb for sth'
+p705
+aS'show gratitude for sb'
+p706
+asbag1
+(g2
+g3
+Ntp707
+Rp708
+(dp709
+g7
+I4
+sg8
+S'\xe5\x81\x9a/\xe5\x81\x9a\xe7\x9a\x84\xe4\xb8\x80\xe7\xa7\x8d\xe6\x96\xb9\xe5\xbc\x8f'
+p710
+sg10
+(lp711
+S'a way to do/of doing'
+p712
+aS'a method to do/of doing'
+p713
+aS'a mean of doing'
+p714
+aS'an approach to doing'
+p715
+asbag1
+(g2
+g3
+Ntp716
+Rp717
+(dp718
+g7
+I3
+sg8
+S'\xe9\x99\xa4\xe4\xba\x86\xe5\xae\xa0\xe7\x89\xa9\xe6\x9f\x90\xe4\xba\x8b'
+p719
+sg10
+(lp720
+S'pet sth aside'
+p721
+aS'put sth aside'
+p722
+aS'put sth away'
+p723
+asbag1
+(g2
+g3
+Ntp724
+Rp725
+(dp726
+g7
+I4
+sg8
+S'A\xe4\xb8\x8eB'
+p727
+sg10
+(lp728
+S'A related to B'
+p729
+aS'A linked to B'
+p730
+aS'A connected to B'
+p731
+aS'A associated with B'
+p732
+asbag1
+(g2
+g3
+Ntp733
+Rp734
+(dp735
+g7
+I2
+sg8
+S'ensure sb sth'
+p736
+sg10
+(lp737
+S'ensure sb sth'
+p738
+aS'assure sb of sth'
+p739
+asbag1
+(g2
+g3
+Ntp740
+Rp741
+(dp742
+g7
+I4
+sg8
+S'\xe5\x9c\xa8\xe8\xbf\x99\xe6\x96\xb9\xe9\x9d\xa2'
+p743
+sg10
+(lp744
+S'in this aspect'
+p745
+aS'in this respect'
+p746
+aS'in this way'
+p747
+aS'from this perspective'
+p748
+asbag1
+(g2
+g3
+Ntp749
+Rp750
+(dp751
+g7
+I4
+sg8
+S'\xe5\xbe\x88\xe6\x98\x8e\xe6\x98\xbe,'
+p752
+sg10
+(lp753
+S"it's clear that"
+p754
+aS"it's obvious that"
+p755
+aS"it's apparent that"
+p756
+aS"it's evident that"
+p757
+asbag1
+(g2
+g3
+Ntp758
+Rp759
+(dp760
+g7
+I2
+sg8
+S'\xe5\x8e\xbb\xe4\xb8\x8a\xe5\xad\xa6'
+p761
+sg10
+(lp762
+S'go to school'
+p763
+aS'attend school'
+p764
+asbag1
+(g2
+g3
+Ntp765
+Rp766
+(dp767
+g7
+I4
+sg8
+S'\xe5\x8f\x82\xe5\x8a\xa0\xe4\xbc\x9a\xe8\xae\xae'
+p768
+sg10
+(lp769
+S'attend the meeting'
+p770
+aS'be present at the meeting'
+p771
+aS'join in the meeting'
+p772
+aS'turn up at the meeting'
+p773
+asbag1
+(g2
+g3
+Ntp774
+Rp775
+(dp776
+g7
+I2
+sg8
+S'\xe6\xac\xa2\xe8\xbf\x8e\xe6\x9f\x90\xe4\xba\xba'
+p777
+sg10
+(lp778
+S'greet sb'
+p779
+aS'inquire after sb'
+p780
+asbag1
+(g2
+g3
+Ntp781
+Rp782
+(dp783
+g7
+I3
+sg8
+S'\xe6\x8a\x8a\xe9\x87\x8d\xe7\x82\xb9\xe6\x94\xbe\xe5\x9c\xa8'
+p784
+sg10
+(lp785
+S'lay emphasis on'
+p786
+aS'put stress on'
+p787
+aS'attach importance to'
+p788
+asbag1
+(g2
+g3
+Ntp789
+Rp790
+(dp791
+g7
+I5
+sg8
+S'\xe5\x90\xb8\xe5\xbc\x95\xe6\x9f\x90\xe4\xba\xba\xe7\x9a\x84\xe6\xb3\xa8\xe6\x84\x8f'
+p792
+sg10
+(lp793
+S"attract one's attention"
+p794
+aS"catch one's eye"
+p795
+aS"absorb one's attention"
+p796
+aS"catch one's attention"
+p797
+aS"capture one's attention"
+p798
+asbag1
+(g2
+g3
+Ntp799
+Rp800
+(dp801
+g7
+I4
+sg8
+S'\xe5\xa5\x96\xe5\x8a\xb1\xe6\x9f\x90\xe4\xba\xba\xe6\x9f\x90\xe7\x89\xa9'
+p802
+sg10
+(lp803
+S'award sb sth'
+p804
+aS'award sth to sb'
+p805
+aS'award sb price'
+p806
+aS'award price for sb/present sb with a price'
+p807
+asbag1
+(g2
+g3
+Ntp808
+Rp809
+(dp810
+g7
+I3
+sg8
+S'\xe6\x9c\x89\xe8\x83\xbd\xe5\x8a\x9b\xe5\x81\x9a\xe4\xbb\x80\xe4\xb9\x88'
+p811
+sg10
+(lp812
+S'have the power to do'
+p813
+aS'have the authority/right to do'
+p814
+aS'be entitled to do'
+p815
+asbag1
+(g2
+g3
+Ntp816
+Rp817
+(dp818
+g7
+I2
+sg8
+S'\xe6\xb3\xa8\xe6\x84\x8f'
+p819
+sg10
+(lp820
+S'be aware of'
+p821
+aS'be conscious of/that'
+p822
+asbag1
+(g2
+g3
+Ntp823
+Rp824
+(dp825
+g7
+I3
+sg8
+S'\xe7\xb3\xbb\xe4\xb8\x80\xe4\xb8\xaaB'
+p826
+sg10
+(lp827
+S'tie A to B'
+p828
+aS'fasten A to B'
+p829
+aS'attach A to B'
+p830
+asbag1
+(g2
+g3
+Ntp831
+Rp832
+(dp833
+g7
+I3
+sg8
+S'\xe7\xa6\x81\xe6\xad\xa2\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a'
+p834
+sg10
+(lp835
+S'ban sb from doing'
+p836
+aS'forbid sb to do'
+p837
+aS'prohibit sb from doing'
+p838
+asbag1
+(g2
+g3
+Ntp839
+Rp840
+(dp841
+g7
+I4
+sg8
+S'\xe4\xb8\x80\xe6\x97\xa6'
+p842
+sg10
+(lp843
+S'as soon as'
+p844
+aS'hardly when '
+p845
+aS'no sooner than'
+p846
+aS'the moment'
+p847
+asbag1
+(g2
+g3
+Ntp848
+Rp849
+(dp850
+g7
+I3
+sg8
+S'\xe4\xbc\xa4\xe5\xae\xb3'
+p851
+sg10
+(lp852
+S'do harm to'
+p853
+aS'be harmful to'
+p854
+aS'do bad for'
+p855
+asbag1
+(g2
+g3
+Ntp856
+Rp857
+(dp858
+g7
+I3
+sg8
+S'\xe5\xbe\x88\xe9\x80\x82\xe5\x90\x88'
+p859
+sg10
+(lp860
+S'be good for'
+p861
+aS'be beneficial to'
+p862
+aS'do good to'
+p863
+asbag1
+(g2
+g3
+Ntp864
+Rp865
+(dp866
+g7
+I5
+sg8
+S'\xe7\x94\xb1\xe4\xba\x8e'
+p867
+sg10
+(lp868
+S'due to'
+p869
+aS'because of'
+p870
+aS'owning to'
+p871
+aS'as the result of'
+p872
+aS'on account of'
+p873
+asbag1
+(g2
+g3
+Ntp874
+Rp875
+(dp876
+g7
+I3
+sg8
+S'\xe8\xb6\x85\xe5\x87\xba\xe6\x9f\x90\xe4\xba\xba\xe7\x9a\x84\xe8\x83\xbd\xe5\x8a\x9b'
+p877
+sg10
+(lp878
+S"beyond one's ability"
+p879
+aS"beyond one's power"
+p880
+aS"beyond one's range"
+p881
+asbag1
+(g2
+g3
+Ntp882
+Rp883
+(dp884
+g7
+I2
+sg8
+S'\xe9\x98\xbb\xe7\xa2\x8d'
+p885
+sg10
+(lp886
+S'hold back'
+p887
+aS'take back'
+p888
+asbag1
+(g2
+g3
+Ntp889
+Rp890
+(dp891
+g7
+I2
+sg8
+S'\xe5\x9b\x9e\xe9\xa1\xbe'
+p892
+sg10
+(lp893
+S'look back on'
+p894
+aS'look back to'
+p895
+asbag1
+(g2
+g3
+Ntp896
+Rp897
+(dp898
+g7
+I6
+sg8
+S'\xe5\xaf\xbc\xe8\x87\xb4'
+p899
+sg10
+(lp900
+S'lead to'
+p901
+aS'give rise to'
+p902
+aS'result in'
+p903
+aS'bring about'
+p904
+aS'contribute to'
+p905
+aS'give birth to'
+p906
+asbag1
+(g2
+g3
+Ntp907
+Rp908
+(dp909
+g7
+I3
+sg8
+S'\xe4\xb8\x80\xe7\x82\xb9\xe4\xb9\x9f\xe4\xb8\x8d'
+p910
+sg10
+(lp911
+S'not at all'
+p912
+aS'not a bit'
+p913
+aS'anything but'
+p914
+asbag1
+(g2
+g3
+Ntp915
+Rp916
+(dp917
+g7
+I2
+sg8
+S'\xe6\x9c\x80\xe5\xa5\xbd\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p918
+sg10
+(lp919
+S'had better do'
+p920
+aS'may as well do'
+p921
+asbag1
+(g2
+g3
+Ntp922
+Rp923
+(dp924
+g7
+I2
+sg8
+S'\xe6\x98\xaf\xe7\xbd\xaa\xe9\xad\x81\xe7\xa5\xb8\xe9\xa6\x96'
+p925
+sg10
+(lp926
+S'be to blame for'
+p927
+aS'be responsible for'
+p928
+asbag1
+(g2
+g3
+Ntp929
+Rp930
+(dp931
+g7
+I4
+sg8
+S'\xe5\x8e\x8c\xe5\x80\xa6\xe4\xba\x86'
+p932
+sg10
+(lp933
+S'be tired of'
+p934
+aS'be bored with'
+p935
+aS'be sick of'
+p936
+aS'be worn out'
+p937
+asbag1
+(g2
+g3
+Ntp938
+Rp939
+(dp940
+g7
+I2
+sg8
+S'\xe5\x9c\xa8\xe7\x9f\xad\xe6\x9a\x82\xe7\x9a\x84'
+p941
+sg10
+(lp942
+S'in brief'
+p943
+aS'in short'
+p944
+asbag1
+(g2
+g3
+Ntp945
+Rp946
+(dp947
+g7
+I4
+sg8
+S'\xe9\x81\x87\xe5\x88\xb0'
+p948
+sg10
+(lp949
+S'come across'
+p950
+aS'bump into'
+p951
+aS'meet with'
+p952
+aS'run into'
+p953
+asbag1
+(g2
+g3
+Ntp954
+Rp955
+(dp956
+g7
+I3
+sg8
+S'\xe7\x9c\x8b\xe4\xb8\x80\xe4\xb8\x8b'
+p957
+sg10
+(lp958
+S'look over'
+p959
+aS'go through'
+p960
+aS'browse over'
+p961
+asbag1
+(g2
+g3
+Ntp962
+Rp963
+(dp964
+g7
+I2
+sg8
+S'\xe7\xbb\x93\xe6\x9d\x9f'
+p965
+sg10
+(lp966
+S'put an end to'
+p967
+aS'bring sth an end'
+p968
+asbag1
+(g2
+g3
+Ntp969
+Rp970
+(dp971
+g7
+I2
+sg8
+S'\xe7\xaa\x81\xe7\x84\xb6\xe5\x93\xad\xe8\xb5\xb7\xe6\x9d\xa5'
+p972
+sg10
+(lp973
+S'burst out crying'
+p974
+aS'burst into tears'
+p975
+asbag1
+(g2
+g3
+Ntp976
+Rp977
+(dp978
+g7
+I2
+sg8
+S'\xe7\xaa\x81\xe7\x84\xb6\xe5\xa4\xa7\xe7\xac\x91\xe8\xb5\xb7\xe6\x9d\xa5'
+p979
+sg10
+(lp980
+S'burst out laughing'
+p981
+aS'burst into laughter'
+p982
+asbag1
+(g2
+g3
+Ntp983
+Rp984
+(dp985
+g7
+I2
+sg8
+S'\xe7\xaa\x81\xe7\x84\xb6\xe9\xbc\x93\xe6\x8e\x8c'
+p986
+sg10
+(lp987
+S'burst out applauding'
+p988
+aS'burst into applause'
+p989
+asbag1
+(g2
+g3
+Ntp990
+Rp991
+(dp992
+g7
+I4
+sg8
+S'\xe5\xbf\x99\xe7\x9d\x80\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p993
+sg10
+(lp994
+S'be busy doing'
+p995
+aS'be occupied in'
+p996
+aS'be engaged in'
+p997
+aS'be busy with'
+p998
+asbag1
+(g2
+g3
+Ntp999
+Rp1000
+(dp1001
+g7
+I2
+sg8
+S'\xe5\xa6\x82\xe6\x9e\x9c\xe6\xb2\xa1\xe6\x9c\x89'
+p1002
+sg10
+(lp1003
+S'if it were not for'
+p1004
+aS'but for'
+p1005
+asbag1
+(g2
+g3
+Ntp1006
+Rp1007
+(dp1008
+g7
+I3
+sg8
+S'\xe4\xbb\xa5\xe8\xbf\x99\xe7\xa7\x8d\xe6\x96\xb9\xe5\xbc\x8f'
+p1009
+sg10
+(lp1010
+S'in this way'
+p1011
+aS'with this method'
+p1012
+aS'by this mean'
+p1013
+asbag1
+(g2
+g3
+Ntp1014
+Rp1015
+(dp1016
+g7
+I2
+sg8
+S'\xe4\xb8\x80\xe4\xb8\xaa\xe6\x8e\xa5\xe4\xb8\x80\xe4\xb8\xaa'
+p1017
+sg10
+(lp1018
+S'one by one'
+p1019
+aS'one after another'
+p1020
+asbag1
+(g2
+g3
+Ntp1021
+Rp1022
+(dp1023
+g7
+I2
+sg8
+S'\xe5\xa4\x8d\xe4\xb9\xa0'
+p1024
+sg10
+(lp1025
+S'go over'
+p1026
+aS'refresh'
+p1027
+asbag1
+(g2
+g3
+Ntp1028
+Rp1029
+(dp1030
+g7
+I2
+sg8
+S'\xe6\x92\x9e\xe9\x97\xa8'
+p1031
+sg10
+(lp1032
+S'bump against the door'
+p1033
+aS'knock against the door'
+p1034
+asbag1
+(g2
+g3
+Ntp1035
+Rp1036
+(dp1037
+g7
+I5
+sg8
+S'\xe4\xbe\x9d\xe9\x9d\xa0\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p1038
+sg10
+(lp1039
+S'rely on sb to do sth'
+p1040
+aS'depend on sb to do sth'
+p1041
+aS'count on sb to do sth'
+p1042
+aS"be dependent on one's doing"
+p1043
+aS'calculate on'
+p1044
+asbag1
+(g2
+g3
+Ntp1045
+Rp1046
+(dp1047
+g7
+I2
+sg8
+S'\xe4\xb8\x8d\xe8\x83\xbd\xe2\x80\xa6\xe2\x80\xa6\xe5\xb7\xb2\xe7\xbb\x8f\xe5\xa4\xaa\xe8\xbf\x9f\xe4\xba\x86'
+p1048
+sg10
+(lp1049
+S"can't ... be too late"
+p1050
+aS"can't ... be enough"
+p1051
+asbag1
+(g2
+g3
+Ntp1052
+Rp1053
+(dp1054
+g7
+I5
+sg8
+S'\xe6\xb2\xa1\xe6\x9c\x89\xe6\x84\x8f\xe6\x80\x9d'
+p1055
+sg10
+(lp1056
+S'by no mean'
+p1057
+aS'in no way'
+p1058
+aS'in no mean'
+p1059
+aS'on no account'
+p1060
+aS'in no way/under no circumstance'
+p1061
+asbag1
+(g2
+g3
+Ntp1062
+Rp1063
+(dp1064
+g7
+I3
+sg8
+S'\xe4\xbb\xa5\xe9\x98\xb2'
+p1065
+sg10
+(lp1066
+S'in case'
+p1067
+aS'for fear of'
+p1068
+aS'for fear that'
+p1069
+asbag1
+(g2
+g3
+Ntp1070
+Rp1071
+(dp1072
+g7
+I3
+sg8
+S'\xe9\x99\xb7\xe5\x85\xa5\xe4\xba\xa4\xe9\x80\x9a\xe5\xa0\xb5\xe5\xa1\x9e'
+p1073
+sg10
+(lp1074
+S'be caught in traffic jam'
+p1075
+aS'stuck in traffic jam'
+p1076
+aS'be held up in traffic jam'
+p1077
+asbag1
+(g2
+g3
+Ntp1078
+Rp1079
+(dp1080
+g7
+I5
+sg8
+S'\xe8\xbf\x99\xe6\x98\xaf\xe5\x8f\xaf\xe8\x83\xbd'
+p1081
+sg10
+(lp1082
+S"it's possibly that"
+p1083
+aS"it's likely that"
+p1084
+aS"there's a possibility that"
+p1085
+aS'there are chances that'
+p1086
+aS'chances are that'
+p1087
+asbag1
+(g2
+g3
+Ntp1088
+Rp1089
+(dp1090
+g7
+I2
+sg8
+S'\xe5\x8f\xaf\xe4\xbb\xa5\xe8\x82\xaf\xe5\xae\x9a\xe7\x9a\x84\xe6\x98\xaf'
+p1091
+sg10
+(lp1092
+S'for sure'
+p1093
+aS'for certain'
+p1094
+asbag1
+(g2
+g3
+Ntp1095
+Rp1096
+(dp1097
+g7
+I4
+sg8
+S'\xe7\xa1\xae\xe4\xbf\x9d\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p1098
+sg10
+(lp1099
+S'ensure that sb do'
+p1100
+aS'make sure that sb do'
+p1101
+aS'make certain that sb do'
+p1102
+aS'se to it that sb do'
+p1103
+asbag1
+(g2
+g3
+Ntp1104
+Rp1105
+(dp1106
+g7
+I2
+sg8
+S'\xe4\xb8\x80\xe5\xae\x9a\xe7\x9a\x84'
+p1107
+sg10
+(lp1108
+S'be certain of'
+p1109
+aS'be sure of'
+p1110
+asbag1
+(g2
+g3
+Ntp1111
+Rp1112
+(dp1113
+g7
+I3
+sg8
+S'\xe5\x8f\x82\xe8\xa7\x82'
+p1114
+sg10
+(lp1115
+S'pay a visit to'
+p1116
+aS'call on'
+p1117
+aS'be on a visit'
+p1118
+asbag1
+(g2
+g3
+Ntp1119
+Rp1120
+(dp1121
+g7
+I3
+sg8
+S'\xe9\xa2\x86\xe5\xaf\xbc\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p1122
+sg10
+(lp1123
+S'lead sb to do'
+p1124
+aS'cause sb to do'
+p1125
+aS'lead to sb doing'
+p1126
 asba.
