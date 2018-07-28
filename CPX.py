@@ -88,10 +88,13 @@ def transfileEXCIT():
 if __name__=="__main__":
     if os.path.exists("HML.txt")==True:
         loadEXCIT("HML.txt")
-    #transfileEXCIT()
-    outEXCIT()
-    #inEXCIT()
-    #outEXCIT()
-    #debugEXCIT()
-    #outEXCIT()
-    #saveEXCIT()
+    type=raw_input("Type:")
+    if type=="f":
+        transfileEXCIT()
+    else:
+        outEXCIT()
+        inEXCIT()
+        outEXCIT()
+        debugEXCIT()
+        outEXCIT()
+        saveEXCIT()

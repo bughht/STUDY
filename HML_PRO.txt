@@ -550,3 +550,215 @@
   > lead sb to do
   > cause sb to do
   > lead to sb doing
+[143] 改变
+  > change
+  > alter
+  > transform
+  > shift
+[144] 环境
+  > environment
+  > surroundings
+  > atmosphere
+  > circumstance
+  > situation
+  > condition
+[145] 的同事
+  > colleague
+  > co-worker
+[146] 复杂的
+  > complex
+  > complicated
+  > sophisticated
+[147] 承认
+  > admit
+  > acknowledge
+  > confess
+  > recognize
+[148] 疯狂的
+  > crazy
+  > mad
+  > wild
+  > enthusiastic
+  > insane
+[149] 改变
+  > change
+  > changeable
+[150] 分类
+  > classify
+  > classification
+[151] 结合
+  > combine
+  > combination
+[152] 喜剧
+  > comedy
+  > comedian
+[153] commerce
+  > commerce
+  > commercial
+[154] 沟通
+  > communication
+  > communicate
+[155] 比较
+  > compare
+  > comparasion
+[156] 竞争
+  > compete
+  > competition
+[157] 抱怨
+  > complain
+  > complaint
+[158] 理解
+  > comprehension
+  > comprehend
+[159] 集中注意力
+  > concentrate
+  > concentration
+[160] 结论
+  > conclusion
+  > conclude
+[161] 消费
+  > consume
+  > consumption
+[162] 贡献
+  > contribute
+  > contribution
+[163] 合作
+  > cooperation
+  > cooperate
+[164] 公司
+  > company
+  > firm
+  > coporation
+  > enterprise
+[165] 报道
+  > coverage
+  > cover
+[166] 创建
+  > create
+  > creative
+  > creation
+[167] 残忍
+  > cruelty
+  > cruel
+[168] 培养
+  > cultivate
+  > cultivation
+[169] 好奇的
+  > curious
+  > curiosity
+[170] 昂贵的
+  > costly
+  > expensive
+  > dear
+[171] 证明
+  > prove
+  > demonstrate
+[172] 放弃
+  > abandon
+  > desert
+  > discard
+[173] 尽管
+  > despite
+  > in spite of
+[174] 培养
+  > cultivate
+  > develop
+  > train
+[175] 区别
+  > difference
+  > gap
+  > distinguishment/distinction
+[176] 插图
+  > illustration
+  > instruction
+  > direction
+[177] 远程
+  > remote
+  > distant
+[178] 危及
+  > endanger
+  > dangerous
+[179] 作弊
+  > cheat
+  > cheat
+  > deceive
+  > deception
+[180] 捍卫
+  > defend
+  > defense
+[181] 定义
+  > define
+  > definite
+[182] 需求
+  > demand
+  > demanding
+[183] 离开
+  > depart
+  > departure
+[184] 抑制
+  > depress
+  > depression
+[185] 描述
+  > describe
+  > description
+[186] 摧毁
+  > destroy
+  > destruction
+[187] 确定
+  > determine
+  > determination
+  > determine
+[188] 勤奋
+  > diligence
+  > diligent
+[189] 驳回
+  > dismiss
+  > dismissal
+[190] 打扰
+  > disturb
+  > disturbance
+[191] 区分
+  > distinguish
+  > distinguishment
+[192] 占据主导地位
+  > dominate
+  > domination
+[193] 编辑
+  > edit
+  > edition
+  > editiorial
+[194] 影响
+  > affect
+  > affection
+[195] 非常高效。
+  > efficient
+  > efficiency
+[196] 电工
+  > electrician
+  > electricity
+[197] 出现
+  > emerge
+  > emergence
+[198] 强调
+  > emphasize
+  > emphasis
+[199] 忍受
+  > endure
+  > endurance
+[200] 激励
+  > energize
+  > energy
+  > energetic
+[201] 热情
+  > enthusiasm
+  > enthusiastic
+[202] 嫉妒
+  > envy
+  > envy
+  > envious
+[203] 估计
+  > estimate
+  > estimation
+[204] 进化
+  > evolve
+  > evolution
