@@ -4121,4 +4121,997 @@ S'hard to get alone with'
 p1730
 aS'hard to deal with'
 p1731
+asbag1
+(g2
+g3
+Ntp1732
+Rp1733
+(dp1734
+g7
+I2
+sg8
+S'\xe5\x81\x9a\xe5\x86\xb3\xe5\xae\x9a'
+p1735
+sg10
+(lp1736
+S'make decision on'
+p1737
+aS'decide'
+p1738
+asbag1
+(g2
+g3
+Ntp1739
+Rp1740
+(dp1741
+g7
+I4
+sg8
+S'\xe5\x81\x9a\xe4\xb8\x80\xe4\xb8\xaa\xe5\x86\xb3\xe5\xae\x9a'
+p1742
+sg10
+(lp1743
+S'make a decision'
+p1744
+aS'come to a decision'
+p1745
+aS'reach a decision'
+p1746
+aS'arrive at a decision'
+p1747
+asbag1
+(g2
+g3
+Ntp1748
+Rp1749
+(dp1750
+g7
+I4
+sg8
+S'\xe7\xbb\x8f\xe6\xb5\x8e\xe8\x90\xa7\xe6\x9d\xa1'
+p1751
+sg10
+(lp1752
+S'the economic depression'
+p1753
+aS'the economic decline'
+p1754
+aS'the economis recession'
+p1755
+aS'the economic decrease'
+p1756
+asbag1
+(g2
+g3
+Ntp1757
+Rp1758
+(dp1759
+g7
+I3
+sg8
+S'\xe5\x9c\xa8\xe4\xb8\x8b\xe9\x99\x8d'
+p1760
+sg10
+(lp1761
+S'on the decline'
+p1762
+aS'on the fall'
+p1763
+aS'on the decrease'
+p1764
+asbag1
+(g2
+g3
+Ntp1765
+Rp1766
+(dp1767
+g7
+I3
+sg8
+S'\xe5\x87\xbb\xe8\xb4\xa5\xe6\x95\x8c\xe4\xba\xba'
+p1768
+sg10
+(lp1769
+S'defeat the enemy'
+p1770
+aS'beat the enemy'
+p1771
+aS'win over the enemy'
+p1772
+asbag1
+(g2
+g3
+Ntp1773
+Rp1774
+(dp1775
+g7
+I5
+sg8
+S'\xe9\x80\x90\xe6\xb8\x90'
+p1776
+sg10
+(lp1777
+S'gradually'
+p1778
+aS'little by little'
+p1779
+aS'bit by bit'
+p1780
+aS'by degrees'
+p1781
+aS'by and by'
+p1782
+asbag1
+(g2
+g3
+Ntp1783
+Rp1784
+(dp1785
+g7
+I4
+sg8
+S'\xe8\xa6\x81\xe6\xb1\x82\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p1786
+sg10
+(lp1787
+S'ask sb for sth'
+p1788
+aS'require sth of sb'
+p1789
+aS'demand sth of sb'
+p1790
+aS'request sth from sb'
+p1791
+asbag1
+(g2
+g3
+Ntp1792
+Rp1793
+(dp1794
+g7
+I3
+sg8
+S'\xe6\x8e\xa8\xe8\xbf\x9f\xe5\x81\x9a'
+p1795
+sg10
+(lp1796
+S'put off doing'
+p1797
+aS'delay doing'
+p1798
+aS'postpone doing'
+p1799
+asbag1
+(g2
+g3
+Ntp1800
+Rp1801
+(dp1802
+g7
+I3
+sg8
+S'\xe6\x95\x85\xe6\x84\x8f'
+p1803
+sg10
+(lp1804
+S'on purpose'
+p1805
+aS'purposfully'
+p1806
+aS'ask sb for sth'
+p1807
+asbag1
+(g2
+g3
+Ntp1808
+Rp1809
+(dp1810
+g7
+I5
+sg8
+S'\xe7\x9b\xae\xe7\x9a\x84\xe6\x98\xaf\xe5\x81\x9a'
+p1811
+sg10
+(lp1812
+S'aim to do'
+p1813
+aS'aim at doing'
+p1814
+aS'be meant to do'
+p1815
+aS'be intended to do'
+p1816
+aS'be designed to do'
+p1817
+asbag1
+(g2
+g3
+Ntp1818
+Rp1819
+(dp1820
+g7
+I9
+sg8
+S'\xe6\x9c\x89\xe4\xb8\x80\xe4\xb8\xaa\xe6\xb8\xb4\xe6\x9c\x9b'
+p1821
+sg10
+(lp1822
+S'have a desire for'
+p1823
+aS'desire sth'
+p1824
+aS'be eager for'
+p1825
+aS'long for'
+p1826
+aS'be starve for'
+p1827
+aS'be thirsty for'
+p1828
+aS'be anxious for'
+p1829
+aS'be desperate for'
+p1830
+aS'be dying for'
+p1831
+asbag1
+(g2
+g3
+Ntp1832
+Rp1833
+(dp1834
+g7
+I5
+sg8
+S'\xe5\x86\xb3\xe5\xae\x9a\xe5\x81\x9a'
+p1835
+sg10
+(lp1836
+S'determine to do'
+p1837
+aS'be determined to do'
+p1838
+aS"make up one's mind to do"
+p1839
+aS'decide to do'
+p1840
+aS'resolve to do'
+p1841
+asbag1
+(g2
+g3
+Ntp1842
+Rp1843
+(dp1844
+g7
+I4
+sg8
+S'\xe5\x9c\xa8\xe5\xad\x97\xe5\x85\xb8\xe9\x87\x8c\xe6\x9f\xa5\xe8\xbf\x99\xe4\xb8\xaa\xe8\xaf\x8d'
+p1845
+sg10
+(lp1846
+S'look up the word in the dictionary'
+p1847
+aS'referred to the dictionary'
+p1848
+aS'turn to the dictionary'
+p1849
+aS'consult the dictionary'
+p1850
+asbag1
+(g2
+g3
+Ntp1851
+Rp1852
+(dp1853
+g7
+I4
+sg8
+S'\xe5\x85\x8b\xe6\x9c\x8d\xe6\xaf\x8f\xe4\xb8\x80\xe4\xb8\xaa\xe5\x9b\xb0\xe9\x9a\xbe'
+p1854
+sg10
+(lp1855
+S'overcome every difficulties'
+p1856
+aS'get over difficulties'
+p1857
+aS'conquer difficulties'
+p1858
+aS'smoth away difficulties'
+p1859
+asbag1
+(g2
+g3
+Ntp1860
+Rp1861
+(dp1862
+g7
+I2
+sg8
+S'\xe9\x98\xbb\xe6\xad\xa2\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p1863
+sg10
+(lp1864
+S'prevent sb from doing sth'
+p1865
+aS'discourage sb from doing sth'
+p1866
+asbag1
+(g2
+g3
+Ntp1867
+Rp1868
+(dp1869
+g7
+I3
+sg8
+S'\xe5\xb1\x95\xe5\x87\xba'
+p1870
+sg10
+(lp1871
+S'on display'
+p1872
+aS'on exhibit'
+p1873
+aS'on show'
+p1874
+asbag1
+(g2
+g3
+Ntp1875
+Rp1876
+(dp1877
+g7
+I3
+sg8
+S'\xe6\x8a\x8a\xe6\x9f\x90\xe4\xba\x8b\xe6\x8d\x90\xe7\xbb\x99\xe6\x85\x88\xe5\x96\x84\xe6\x9c\xba\xe6\x9e\x84'
+p1878
+sg10
+(lp1879
+S'donate sth to the charity'
+p1880
+aS'contribute to the charity'
+p1881
+aS'dedicate sth to the charity'
+p1882
+asbag1
+(g2
+g3
+Ntp1883
+Rp1884
+(dp1885
+g7
+I2
+sg8
+S'\xe5\x87\x8f\xe8\xbd\xbb\xe7\x97\x9b\xe8\x8b\xa6'
+p1886
+sg10
+(lp1887
+S'relieve the pain'
+p1888
+aS'ease the pain'
+p1889
+asbag1
+(g2
+g3
+Ntp1890
+Rp1891
+(dp1892
+g7
+I2
+sg8
+S'\xe5\x8c\x85\xe8\xa3\x85\xe5\x87\xba\xe8\xb4\xab\xe5\x9b\xb0'
+p1893
+sg10
+(lp1894
+S'wrap out poverty'
+p1895
+aS'delete poverty'
+p1896
+asbag1
+(g2
+g3
+Ntp1897
+Rp1898
+(dp1899
+g7
+I7
+sg8
+S'\xe5\xbc\xba\xe8\xb0\x83\xe5\x8a\xaa\xe5\x8a\x9b\xe5\xb7\xa5\xe4\xbd\x9c\xe7\x9a\x84\xe5\xbf\x85\xe8\xa6\x81\xe6\x80\xa7'
+p1900
+sg10
+(lp1901
+S'emphasize on the necessity of hardworking'
+p1902
+aS'lay emphasis on the necessity of hardworking'
+p1903
+aS'put emphasis on the necessity of hardworking'
+p1904
+aS'place the emphasis on the necessity of hardworking'
+p1905
+aS'highlight the necessity of hardworking'
+p1906
+aS'address the necessity of hardworking'
+p1907
+aS'stress the necessity of hardwork'
+p1908
+asbag1
+(g2
+g3
+Ntp1909
+Rp1910
+(dp1911
+g7
+I3
+sg8
+S'\xe9\x80\x82\xe5\xba\x94\xe7\xad\x96\xe7\x95\xa5'
+p1912
+sg10
+(lp1913
+S'adapt the strategy'
+p1914
+aS'use the strategy'
+p1915
+aS'employ the strategy'
+p1916
+asbag1
+(g2
+g3
+Ntp1917
+Rp1918
+(dp1919
+g7
+I4
+sg8
+S'\xe9\xbc\x93\xe5\x8a\xb1\xe6\x9f\x90\xe4\xba\xba\xe5\x8e\xbb\xe5\x81\x9a'
+p1920
+sg10
+(lp1921
+S'encourage sb to do'
+p1922
+aS'inspire sb to do'
+p1923
+aS'employ sb to do'
+p1924
+aS'urge sb to do'
+p1925
+asbag1
+(g2
+g3
+Ntp1926
+Rp1927
+(dp1928
+g7
+I4
+sg8
+S'\xe5\xa2\x9e\xe8\xbf\x9b\xe5\x8f\x8b\xe8\xb0\x8a'
+p1929
+sg10
+(lp1930
+S'enhance friendship'
+p1931
+aS'promote friendship'
+p1932
+aS'strengthen friendship'
+p1933
+aS'boost friendship'
+p1934
+asbag1
+(g2
+g3
+Ntp1935
+Rp1936
+(dp1937
+g7
+I5
+sg8
+S'\xe6\x89\xa9\xe5\xa4\xa7\xe8\xaf\x8d\xe6\xb1\x87\xe9\x87\x8f'
+p1938
+sg10
+(lp1939
+S'expand vocabulary'
+p1940
+aS'enlarge vocabulary'
+p1941
+aS'expand vocabulary'
+p1942
+aS'build vocabulary'
+p1943
+aS'accumulate vocabulary'
+p1944
+asbag1
+(g2
+g3
+Ntp1945
+Rp1946
+(dp1947
+g7
+I5
+sg8
+S'\xe5\x8f\x82\xe5\x8a\xa0\xe7\xab\x9e\xe4\xba\x89'
+p1948
+sg10
+(lp1949
+S'take part in the competition'
+p1950
+aS'participate in the competition'
+p1951
+aS'attend the competition'
+p1952
+aS'enter for the competition'
+p1953
+aS'sign up for the competition'
+p1954
+asbag1
+(g2
+g3
+Ntp1955
+Rp1956
+(dp1957
+g7
+I2
+sg8
+S'\xe4\xbd\xa0\xe5\xaf\xb9\xe6\x9c\xaa\xe6\x9d\xa5\xe7\x9a\x84\xe7\x94\x9f\xe6\xb4\xbb\xe5\x81\x9a\xe5\xa5\xbd\xe5\x87\x86\xe5\xa4\x87'
+p1958
+sg10
+(lp1959
+S'prepare you for the future life'
+p1960
+aS'equip you for the future life'
+p1961
+asbag1
+(g2
+g3
+Ntp1962
+Rp1963
+(dp1964
+g7
+I3
+sg8
+S'\xe4\xb8\x8d\xe8\xae\xb0\xe5\xbe\x97\xe5\xa5\xb9\xe7\x9a\x84\xe5\x90\x8d\xe5\xad\x97\xe5\x90\x97'
+p1965
+sg10
+(lp1966
+S"can't remember her name"
+p1967
+aS"can't think of her name"
+p1968
+aS'her name escaped me'
+p1969
+asbag1
+(g2
+g3
+Ntp1970
+Rp1971
+(dp1972
+g7
+I3
+sg8
+S'\xe5\xb7\xa5\xe4\xb8\x9a\xe6\xb1\xa1\xe6\x9f\x93\xe7\x9a\x84\xe7\xa8\x8b\xe5\xba\xa6'
+p1973
+sg10
+(lp1974
+S'the extent of the industrial pollution'
+p1975
+aS'the degree of the industrial pollution'
+p1976
+aS'the level of the industrial pollution'
+p1977
+asbag1
+(g2
+g3
+Ntp1978
+Rp1979
+(dp1980
+g7
+I4
+sg8
+S'\xe9\x81\x87\xe5\x88\xb0'
+p1981
+sg10
+(lp1982
+S'come across'
+p1983
+aS'meet with'
+p1984
+aS'bump into'
+p1985
+aS'run into'
+p1986
+asbag1
+(g2
+g3
+Ntp1987
+Rp1988
+(dp1989
+g7
+I4
+sg8
+S'\xe5\xbe\x88\xe6\x98\x8e\xe6\x98\xbe,'
+p1990
+sg10
+(lp1991
+S"it's obvious that"
+p1992
+aS"it's clear that"
+p1993
+aS"it's evident that"
+p1994
+aS"it's apparent that"
+p1995
+asbag1
+(g2
+g3
+Ntp1996
+Rp1997
+(dp1998
+g7
+I4
+sg8
+S'\xe8\xba\xba\xe5\x9c\xa8'
+p1999
+sg10
+(lp2000
+S'lie on'
+p2001
+aS'depend on'
+p2002
+aS'count on'
+p2003
+aS'calculate on'
+p2004
+asbag1
+(g2
+g3
+Ntp2005
+Rp2006
+(dp2007
+g7
+I4
+sg8
+S'\xe6\x9c\x80\xe5\x90\x8e\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p2008
+sg10
+(lp2009
+S'end up sth'
+p2010
+aS'bring sth to an end'
+p2011
+aS'put an end to sth'
+p2012
+aS'sth come to an end'
+p2013
+asbag1
+(g2
+g3
+Ntp2014
+Rp2015
+(dp2016
+g7
+I3
+sg8
+S'\xe6\x98\xaf\xe6\x82\xa3\xe4\xba\x86\xe6\x84\x9f\xe5\x86\x92'
+p2017
+sg10
+(lp2018
+S'be sick with the cold'
+p2019
+aS'be down with the cold'
+p2020
+aS'be ill with the cold'
+p2021
+asbag1
+(g2
+g3
+Ntp2022
+Rp2023
+(dp2024
+g7
+I3
+sg8
+S'\xe9\x80\x9a\xe8\xbf\x87\xe9\x80\x82\xe5\xbd\x93\xe7\x9a\x84\xe6\x96\xb9\xe6\xb3\x95'
+p2025
+sg10
+(lp2026
+S'through proper methods'
+p2027
+aS'through right methods'
+p2028
+aS'by the proper means'
+p2029
+asbag1
+(g2
+g3
+Ntp2030
+Rp2031
+(dp2032
+g7
+I3
+sg8
+S'\xe9\xaa\x97\xe4\xba\x86\xe5\xa5\xb9\xe7\x9a\x84\xe9\x92\xb1'
+p2033
+sg10
+(lp2034
+S'trick her out of her money'
+p2035
+aS'fool her out of her money'
+p2036
+aS'deceive her out of her money'
+p2037
+asbag1
+(g2
+g3
+Ntp2038
+Rp2039
+(dp2040
+g7
+I3
+sg8
+S'\xe9\x80\x89\xe6\x8b\xa9\xe4\xb8\x89\xe4\xb8\xaa\xe4\xbb\x8e\xe4\xb9\xa6'
+p2041
+sg10
+(lp2042
+S'choose three from the books'
+p2043
+aS'choose three out of the books'
+p2044
+aS'choose three among the books'
+p2045
+asbag1
+(g2
+g3
+Ntp2046
+Rp2047
+(dp2048
+g7
+I2
+sg8
+S'\xe6\xbe\x84\xe6\xb8\x85\xe8\xbf\x99\xe4\xb8\xaa\xe9\x97\xae\xe9\xa2\x98'
+p2049
+sg10
+(lp2050
+S'clear up the problem'
+p2051
+aS'clarify the problem'
+p2052
+asbag1
+(g2
+g3
+Ntp2053
+Rp2054
+(dp2055
+g7
+I3
+sg8
+S'\xe5\x81\xb6\xe7\x84\xb6'
+p2056
+sg10
+(lp2057
+S'by accident'
+p2058
+aS'by chance'
+p2059
+aS'by coincidence'
+p2060
+asbag1
+(g2
+g3
+Ntp2061
+Rp2062
+(dp2063
+g7
+I5
+sg8
+S'\xe9\x97\xae\xe5\x80\x99\xe4\xbd\xa0\xe7\x9a\x84\xe5\xae\xb6\xe4\xba\xba'
+p2064
+sg10
+(lp2065
+S'greet your family'
+p2066
+aS'give withes to your family'
+p2067
+aS'send wishes to your family'
+p2068
+aS'give wishes to your family'
+p2069
+aS'host wishes to your family'
+p2070
+asbag1
+(g2
+g3
+Ntp2071
+Rp2072
+(dp2073
+g7
+I4
+sg8
+S'\xe5\xb9\xbf\xe6\xb3\x9b\xe7\x9a\x84\xe7\x9f\xa5\xe8\xaf\x86'
+p2074
+sg10
+(lp2075
+S'a wide range of knowledge'
+p2076
+aS'a broad range of knowledgy'
+p2077
+aS'extensive knowledge'
+p2078
+aS'comprehensive knowledge'
+p2079
+asbag1
+(g2
+g3
+Ntp2080
+Rp2081
+(dp2082
+g7
+I4
+sg8
+S'\xe5\xbe\x97\xe5\x87\xba\xe7\xbb\x93\xe8\xae\xba'
+p2083
+sg10
+(lp2084
+S'come to the conclusion'
+p2085
+aS'arrive at the conclusion'
+p2086
+aS'reach the conclusion'
+p2087
+aS'draw to the conclusion'
+p2088
+asbag1
+(g2
+g3
+Ntp2089
+Rp2090
+(dp2091
+g7
+I7
+sg8
+S'\xe5\x8f\xaa\xe8\xa6\x81'
+p2092
+sg10
+(lp2093
+S'as long as'
+p2094
+aS'on condition that'
+p2095
+aS'provided that'
+p2096
+aS'providing that'
+p2097
+aS'supposing that'
+p2098
+aS'given that'
+p2099
+aS'in case'
+p2100
+asbag1
+(g2
+g3
+Ntp2101
+Rp2102
+(dp2103
+g7
+I2
+sg8
+S'\xe4\xbd\x9c\xe4\xb8\xba\xe7\x9a\x84\xe7\xbb\x93\xe6\x9e\x9c'
+p2104
+sg10
+(lp2105
+S'as the result of'
+p2106
+aS'as the consequence of'
+p2107
+asbag1
+(g2
+g3
+Ntp2108
+Rp2109
+(dp2110
+g7
+I3
+sg8
+S'\xe4\xbf\x9d\xe6\x8c\x81\xe8\x81\x94\xe7\xb3\xbb'
+p2111
+sg10
+(lp2112
+S'keep in touch with'
+p2113
+aS'contact with'
+p2114
+aS'make contact with'
+p2115
+asbag1
+(g2
+g3
+Ntp2116
+Rp2117
+(dp2118
+g7
+I2
+sg8
+S'\xe5\xaf\xb9\xe4\xbd\xa0\xe8\xa1\xa8\xe8\xbe\xbe\xe6\x88\x91\xe7\x9a\x84\xe6\x84\x8f\xe6\x80\x9d'
+p2119
+sg10
+(lp2120
+S'communicate my meaning to you'
+p2121
+aS'convey my meaning to you'
+p2122
+asbag1
+(g2
+g3
+Ntp2123
+Rp2124
+(dp2125
+g7
+I2
+sg8
+S'\xe6\x88\x91\xe7\x9b\xb8\xe4\xbf\xa1'
+p2126
+sg10
+(lp2127
+S'I believe that'
+p2128
+aS'I am convinced that'
+p2129
+asbag1
+(g2
+g3
+Ntp2130
+Rp2131
+(dp2132
+g7
+I3
+sg8
+S'\xe6\x98\xaf\xe5\x9c\xa8\xe6\x8b\x90\xe8\xa7\x92\xe5\xa4\x84'
+p2133
+sg10
+(lp2134
+S'be around the corner'
+p2135
+aS'be at hand '
+p2136
+aS'be on the way'
+p2137
+asbag1
+(g2
+g3
+Ntp2138
+Rp2139
+(dp2140
+g7
+I4
+sg8
+S'\xe4\xb8\x8d\xe6\x83\x9c\xe4\xbb\xbb\xe4\xbd\x95\xe4\xbb\xa3\xe4\xbb\xb7'
+p2141
+sg10
+(lp2142
+S'at any cost'
+p2143
+aS'price at all costs'
+p2144
+aS'at any expense'
+p2145
+aS'at all expense'
+p2146
+asbag1
+(g2
+g3
+Ntp2147
+Rp2148
+(dp2149
+g7
+I3
+sg8
+S'\xe7\xa1\xae\xe4\xbf\x9d\xe5\xae\x89\xe5\x85\xa8'
+p2150
+sg10
+(lp2151
+S'make sure of safety'
+p2152
+aS'guarantee safety'
+p2153
+aS'come up safety'
+p2154
 asba.

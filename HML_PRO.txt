@@ -762,3 +762,307 @@
 [204] 进化
   > evolve
   > evolution
+[205] 指责某人
+  > accuse sb of
+  > charge sb with
+  > sue sb for
+[206] 追求名利
+  > pursue fame and wealth
+  > go after fame and wealth
+  > chase fame and wealth
+[207] 睁一只眼闭一只眼
+  > turn a blind eye to
+  > shut down one's eye
+  > ignore of
+[208] 邮政编码
+  > post code
+  > zip code
+[209] 评论
+  > comment on
+  > make comment on
+  > remark on
+  > review
+[210] 致力于
+  > devote to
+  > bury in
+  > be engaged in
+  > be commited to
+  > apply to
+  > dedicate to
+[211] 隐瞒某事某人
+  > conceal sth from sb
+  > keep back sth from sb
+  > hold back sth from sb
+  > hid sth from sb
+[212] 定位在
+  > locate in
+  > lie in
+  > result from
+[213] 结合起来的
+  > combine of
+  > make up of
+  > consist of
+[214] 常客
+  > regular customer
+  > frequent customer
+[215] 有意图
+  > be intent with
+  > be satisfied with
+  > be pleased with
+  > be happy with
+[216] 处理紧急情况
+  > handle emergency
+  > deal with emergency
+  > tackle emergency
+  > cop with emergency
+[217] 抄近路
+  > take a short cut
+  > take a short corner
+[218] 充满
+  > be filled with
+  > be crowed with
+  > be stuck with
+  > be packed with
+  > be flooded with
+[219] 摆脱坏习惯
+  > get rid of bad habits
+  > get out of bad habits
+  > cure sb of bad habits
+  > break away from bad habits
+[220] 摧毁一个人的名声
+  > destroy one's fame
+  > ruin one's fame/reputation
+  > do harm to one's fame
+  > spoil one's fame
+  > hurt one's fame
+  > damage one's fame
+[221] 很难独自一人
+  > hard to get alone with
+  > hard to deal with
+[222] 做决定
+  > make decision on
+  > decide
+[223] 做一个决定
+  > make a decision
+  > come to a decision
+  > reach a decision
+  > arrive at a decision
+[224] 经济萧条
+  > the economic depression
+  > the economic decline
+  > the economis recession
+  > the economic decrease
+[225] 在下降
+  > on the decline
+  > on the fall
+  > on the decrease
+[226] 击败敌人
+  > defeat the enemy
+  > beat the enemy
+  > win over the enemy
+[227] 逐渐
+  > gradually
+  > little by little
+  > bit by bit
+  > by degrees
+  > by and by
+[228] 要求某人做某事
+  > ask sb for sth
+  > require sth of sb
+  > demand sth of sb
+  > request sth from sb
+[229] 推迟做
+  > put off doing
+  > delay doing
+  > postpone doing
+[230] 故意
+  > on purpose
+  > purposfully
+  > ask sb for sth
+[231] 目的是做
+  > aim to do
+  > aim at doing
+  > be meant to do
+  > be intended to do
+  > be designed to do
+[232] 有一个渴望
+  > have a desire for
+  > desire sth
+  > be eager for
+  > long for
+  > be starve for
+  > be thirsty for
+  > be anxious for
+  > be desperate for
+  > be dying for
+[233] 决定做
+  > determine to do
+  > be determined to do
+  > make up one's mind to do
+  > decide to do
+  > resolve to do
+[234] 在字典里查这个词
+  > look up the word in the dictionary
+  > referred to the dictionary
+  > turn to the dictionary
+  > consult the dictionary
+[235] 克服每一个困难
+  > overcome every difficulties
+  > get over difficulties
+  > conquer difficulties
+  > smoth away difficulties
+[236] 阻止某人做某事
+  > prevent sb from doing sth
+  > discourage sb from doing sth
+[237] 展出
+  > on display
+  > on exhibit
+  > on show
+[238] 把某事捐给慈善机构
+  > donate sth to the charity
+  > contribute to the charity
+  > dedicate sth to the charity
+[239] 减轻痛苦
+  > relieve the pain
+  > ease the pain
+[240] 包装出贫困
+  > wrap out poverty
+  > delete poverty
+[241] 强调努力工作的必要性
+  > emphasize on the necessity of hardworking
+  > lay emphasis on the necessity of hardworking
+  > put emphasis on the necessity of hardworking
+  > place the emphasis on the necessity of hardworking
+  > highlight the necessity of hardworking
+  > address the necessity of hardworking
+  > stress the necessity of hardwork
+[242] 适应策略
+  > adapt the strategy
+  > use the strategy
+  > employ the strategy
+[243] 鼓励某人去做
+  > encourage sb to do
+  > inspire sb to do
+  > employ sb to do
+  > urge sb to do
+[244] 增进友谊
+  > enhance friendship
+  > promote friendship
+  > strengthen friendship
+  > boost friendship
+[245] 扩大词汇量
+  > expand vocabulary
+  > enlarge vocabulary
+  > expand vocabulary
+  > build vocabulary
+  > accumulate vocabulary
+[246] 参加竞争
+  > take part in the competition
+  > participate in the competition
+  > attend the competition
+  > enter for the competition
+  > sign up for the competition
+[247] 你对未来的生活做好准备
+  > prepare you for the future life
+  > equip you for the future life
+[248] 不记得她的名字吗
+  > can't remember her name
+  > can't think of her name
+  > her name escaped me
+[249] 工业污染的程度
+  > the extent of the industrial pollution
+  > the degree of the industrial pollution
+  > the level of the industrial pollution
+[250] 遇到
+  > come across
+  > meet with
+  > bump into
+  > run into
+[251] 很明显,
+  > it's obvious that
+  > it's clear that
+  > it's evident that
+  > it's apparent that
+[252] 躺在
+  > lie on
+  > depend on
+  > count on
+  > calculate on
+[253] 最后做某事
+  > end up sth
+  > bring sth to an end
+  > put an end to sth
+  > sth come to an end
+[254] 是患了感冒
+  > be sick with the cold
+  > be down with the cold
+  > be ill with the cold
+[255] 通过适当的方法
+  > through proper methods
+  > through right methods
+  > by the proper means
+[256] 骗了她的钱
+  > trick her out of her money
+  > fool her out of her money
+  > deceive her out of her money
+[257] 选择三个从书
+  > choose three from the books
+  > choose three out of the books
+  > choose three among the books
+[258] 澄清这个问题
+  > clear up the problem
+  > clarify the problem
+[259] 偶然
+  > by accident
+  > by chance
+  > by coincidence
+[260] 问候你的家人
+  > greet your family
+  > give withes to your family
+  > send wishes to your family
+  > give wishes to your family
+  > host wishes to your family
+[261] 广泛的知识
+  > a wide range of knowledge
+  > a broad range of knowledgy
+  > extensive knowledge
+  > comprehensive knowledge
+[262] 得出结论
+  > come to the conclusion
+  > arrive at the conclusion
+  > reach the conclusion
+  > draw to the conclusion
+[263] 只要
+  > as long as
+  > on condition that
+  > provided that
+  > providing that
+  > supposing that
+  > given that
+  > in case
+[264] 作为的结果
+  > as the result of
+  > as the consequence of
+[265] 保持联系
+  > keep in touch with
+  > contact with
+  > make contact with
+[266] 对你表达我的意思
+  > communicate my meaning to you
+  > convey my meaning to you
+[267] 我相信
+  > I believe that
+  > I am convinced that
+[268] 是在拐角处
+  > be around the corner
+  > be at hand 
+  > be on the way
+[269] 不惜任何代价
+  > at any cost
+  > price at all costs
+  > at any expense
+  > at all expense
+[270] 确保安全
+  > make sure of safety
+  > guarantee safety
+  > come up safety
