@@ -10,8 +10,8 @@
   > enough
   > sufficient
   > adequate
-[4] approprate
-  > approprate
+[4] 适当的
+  > appropriate
   > proper
   > adequate
 [5] 疼痛
@@ -62,8 +62,8 @@
 [18] 任命
   > appoint
   > appointment
-[19] obcious
-  > obcious
+[19] 明显的
+  > obvious
   > evident
   > apparent
 [20] 鼓掌
@@ -343,8 +343,8 @@
   > a method to do/of doing
   > a mean of doing
   > an approach to doing
-[92] 除了宠物某事
-  > pet sth aside
+[92] 把某物放在一边
+  > put sth aside
   > put sth aside
   > put sth away
 [93] A与B
