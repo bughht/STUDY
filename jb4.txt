@@ -354,6 +354,36 @@ extend
 reward
 psychologist
 physician
-physicistproposed
+physicist
+proposed
 sth be worthy to be done
 sth be worthy of being done
+fall into slumber
+spice
+in vain
+cash crop
+ambivalence
+ambivalent
+be suspicious of
+accident-prone
+safety committee
+overload
+overburden
+cluster
+bar
+by definition
+motivate
+demand to do
+inquire
+acquire
+require sb to do
+contribute to
+contentment
+attribute to
+owe to
+run the risk of
+sponsorship
+go over
+go through
+go for
+go after
